@@ -10,6 +10,7 @@ namespace StudyCSharp
     {
         static void Main(string[] args)
         {
+            // 토큰 적용
             Console.WriteLine("Hello World!");
         }
     }
